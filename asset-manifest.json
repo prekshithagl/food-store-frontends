@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/food-store-frontend/static/css/main.f15613bf.css",
+    "main.js": "/food-store-frontend/static/js/main.deb40384.js",
+    "static/js/453.8ab44547.chunk.js": "/food-store-frontend/static/js/453.8ab44547.chunk.js",
+    "static/media/image.png": "/food-store-frontend/static/media/image.23b2cb0c10519f6c1cf3.png",
+    "static/media/food.png": "/food-store-frontend/static/media/food.e6a2edcb1227b721101c.png",
+    "static/media/foodstore.jpg": "/food-store-frontend/static/media/foodstore.a634021667b36d828ca6.jpg",
+    "static/media/burger3.jpg": "/food-store-frontend/static/media/burger3.232c8bf3f62adfccb65d.jpg",
+    "static/media/burger4.jpg": "/food-store-frontend/static/media/burger4.80593c2f4c12b6ba2d86.jpg",
+    "static/media/burger.jpg": "/food-store-frontend/static/media/burger.85bab986908bcae61e29.jpg",
+    "static/media/burger8.jpg": "/food-store-frontend/static/media/burger8.f031759e7fe58a92003e.jpg",
+    "static/media/burger7.jpg": "/food-store-frontend/static/media/burger7.60b6f058dfcba6191b88.jpg",
+    "static/media/burger5.jpg": "/food-store-frontend/static/media/burger5.5d004d509c8646a65f91.jpg",
+    "static/media/burger10.jpg": "/food-store-frontend/static/media/burger10.5b69d0422aa46801e72c.jpg",
+    "static/media/burger6.jpg": "/food-store-frontend/static/media/burger6.6030b8703980e92b4ca7.jpg",
+    "static/media/burger9.jpg": "/food-store-frontend/static/media/burger9.df856cd43b6cece30d44.jpg",
+    "static/media/burger1.jpg": "/food-store-frontend/static/media/burger1.05527e09ceb8468bdb92.jpg",
+    "index.html": "/food-store-frontend/index.html",
+    "main.f15613bf.css.map": "/food-store-frontend/static/css/main.f15613bf.css.map",
+    "main.deb40384.js.map": "/food-store-frontend/static/js/main.deb40384.js.map",
+    "453.8ab44547.chunk.js.map": "/food-store-frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15613bf.css",
+    "static/js/main.deb40384.js"
+  ]
+}
